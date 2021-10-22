@@ -8,6 +8,7 @@ const salary ="serger";
 const stripeAcct = 12123;
 const username = "asfweferg.com";
 
+
 class App extends React.Component {
   render() {
     return (
