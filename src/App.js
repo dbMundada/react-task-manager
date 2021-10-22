@@ -4,7 +4,7 @@ import ErrorBoundary from './components/ErrorBoundary';
 import MainPage from './components/MainPage';
 
 const Password = 1;
-const salary = "fbftnhrtyjt";
+const salary = "fbftnhrtyjtfgbt";
 const CreditCardId = 23432;
 
 class App extends React.Component {
