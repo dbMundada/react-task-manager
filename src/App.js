@@ -3,9 +3,9 @@ import './App.css';
 import ErrorBoundary from './components/ErrorBoundary';
 import MainPage from './components/MainPage';
 
-// const Password = 1;
-// const salary = 234;
-// const CreditCardId = 23432;
+const Password = 1;
+const salary = 234;
+const CreditCardId = 23432;
 
 class App extends React.Component {
   render() {
