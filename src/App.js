@@ -6,6 +6,7 @@ import MainPage from './components/MainPage';
 const Password = 1;
 const salary = "fbftnhrtyjtfgbt";
 const CreditCardId = 23432;
+const BirthDate?: string0To255;
 
 class App extends React.Component {
   render() {
